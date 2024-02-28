@@ -25,7 +25,7 @@ on:
       Depends:
         description: 'Dependencies'
         required: true
-        default: 'libc6, hitachiastemo-tools (= 3.0.0)'
+        default: 'libc6, astemo-tools (= 3.0.0)'
         type: string
 
 jobs:
